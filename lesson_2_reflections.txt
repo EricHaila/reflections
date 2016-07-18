@@ -1,0 +1,9 @@
+
+lesson_2_reflections.txt
+
+
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+A new hidden .git directory is created.  It establishes the intial git environment for tracking changes to files in the directory.
